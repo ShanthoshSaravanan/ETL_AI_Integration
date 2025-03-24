@@ -30,3 +30,11 @@ Snowflake Tables Created
 Original Tables: Tables in the existing Snowflake schema.
 CDC Tables (table_cdc): Captures row-level changes with timestamps.
 SCD-2 Tables (table_scd): Maintains history with effective_date and expiry_date.
+
+
+Tech Stack Used
+🚀 Snowflake - Cloud Data Warehouse
+🤖 Facebook/BART-Large-MNLI - AI-based classification
+🐍 Python - ETL scripting
+📊 Pandas & SQLAlchemy - Data processing
+⚡ Apache Airflow (optional) - Workflow orchestration
